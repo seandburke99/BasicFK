@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "link.h": "c",
-        "arm.h": "c",
-        "sdl_rect.h": "c"
-    }
-}
